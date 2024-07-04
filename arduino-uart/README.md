@@ -1,0 +1,1 @@
+tamplate taken from here: https://github.com/Rahix/avr-hal-template
